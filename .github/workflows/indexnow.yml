@@ -26,7 +26,7 @@ jobs:
           import json
           from lxml import etree
 
-          key = "9f52428b20124a99b23bb275e0dff697"
+          key = "2db267b8a1f74514a4260196b3261e3e"
           sitemap_url = "https://pokigames.pro/sitemap.xml"
 
           # sitemap fetch
